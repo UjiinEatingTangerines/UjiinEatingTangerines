@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyunUKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyunU Kim&fontSize=70&animation=twinkling)
 
 <h3 align="center">💻 My Stack</h3>
 <p align="center"> The technologies that are currently available </p>
