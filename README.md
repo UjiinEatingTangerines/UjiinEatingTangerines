@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyunU&nbsp;Kim&fontSize=70&animation=twinkling)
 
 <h3 align="center">💻 My Stack</h3>
-<p align="center"> The technologies that are currently available </p>
+<p align="center">The technologies that are currently available</p>
  
  <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">&nbsp
@@ -21,7 +21,7 @@
  <br>
 
 
-<h3 align="center"> ✨ My solved</h3>
+<h3 align="center">✨ My solved</h3>
 <div align="center"> 
  <img src="https://camo.githubusercontent.com/077a1c64e8a5e5c868cbcce3ec40311eb1fbca3ed71e0787f2cd9f392628df61/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d6b6b65706d303132" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkepm012" style="max-width: 100%;">
 </div>
