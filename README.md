@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+skill
+![java](https://user-images.githubusercontent.com/83253826/155076988-0cb3951e-fd22-4269-a725-9b78f1cc9969.svg)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkepm012)](https://solved.ac/kkepm012)
 
 <!--
