@@ -31,10 +31,12 @@
 
 <br>
 
+<div align="center">
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/UjiinEatingTangerines"
-  width="100%"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/UjiinEatingTangerines"
+    width="600"
+    height="120"
+  />
 </a>
+</div>
