@@ -1,48 +1,70 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyunU&nbsp;Kim&fontSize=70&animation=twinkling) -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=HyunwooKim&fontColor=d5e6f5&color=timeGradient&animation=fadeIn) -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HyunwooKim&fontSize=90)
+<!-- Header Section -->
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hyunwoo%20Kim&fontSize=85&fontAlign=70&fontAlignY=40&fontSize=90)
 
-<h3 align="center">💻 My Stack</h3>
-<p align="center">The technologies that are currently available</p>
- 
- <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">&nbsp
- </p>
- 
- <br>
+<h3 align="center">👋 Welcome to my GitHub!</h3>
+<p align="center">백엔드 아키텍처와 도메인 중심 설계를 사랑하는 개발자, 현우입니다.</p>
+<p align="center">Kotlin · Spring Boot · JWT · OAuth2 · Hexagonal Architecture</p>
 
-<h3 align="center">✨ My Solved</h3>
- <!--<div align="center"> 
-  <a href="https://solved.ac/kkepm012" rel="nofollow"><img src="https://camo.githubusercontent.com/077a1c64e8a5e5c868cbcce3ec40311eb1fbca3ed71e0787f2cd9f392628df61/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d6b6b65706d303132" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkepm012" style="max-width: 100%;"></a>
-</div> -->
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkepm012)](https://solved.ac/kkepm012) -->
+---
+
+<h3 align="center">💻 My Tech Stack</h3>
+<p align="center">최근 실무 및 사이드 프로젝트에서 주로 사용하는 기술입니다</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/OAuth2-2F2F2F?style=flat-square&logo=openid&logoColor=white">&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/QueryDSL-000000?style=flat-square&logo=data&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/MyBatis-5B8CFF?style=flat-square&logo=datagrip&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp;
+</p>
+
+---
+
+<h3 align="center">🚀 Ongoing Interests</h3>
+<p align="center">
+  Clean Architecture · Event Sourcing · CQRS · Redis · Kafka · RESTful Design · CI/CD
+</p>
+
+---
+
+<h3 align="center">📊 My Problem Solving</h3>
+<p align="center">BOJ에서 알고리즘 실력을 갈고닦고 있습니다</p>
 
 <div align="center">
-
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kkepm012)
- 
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kkepm012" />
 </div>
 
+---
 
-<br>
-
+<h3 align="center">🐾 GitAnimals!</h3>
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/UjiinEatingTangerines?pet-id=654130287375663973"
-    width="600"
-    height="120"
-  />
-</a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/UjiinEatingTangerines?pet-id=654130287375663973"
+      width="600"
+      height="120"
+    />
+  </a>
 </div>
+
+---
+
+<h3 align="center">📫 Contact</h3>
+<p align="center">
+  <a href="mailto:1996.devjiinu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/UjiinEatingTangerines"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UjiinEatingTangerines&style=flat-square&color=blue" alt="Profile views" />
+</p>
