@@ -1,5 +1,5 @@
 <!-- Header Section -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hyunwoo%20Kim&fontSize=85&fontAlign=70&fontAlignY=40&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=280&section=header&text=Hyunwoo%20Kim&fontSize=85&fontAlign=50&fontAlignY=40)
 
 <h3 align="center">👋 Welcome to my GitHub!</h3>
 <p align="center">백엔드 아키텍처와 도메인 중심 설계를 사랑하는 개발자, 현우입니다.</p>
@@ -60,7 +60,9 @@
 
 <h3 align="center">📫 Contact</h3>
 <p align="center">
-  <a href="mailto:1996.devjiinu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:1996.devjiinu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="mailto:kkepm012@naver.com"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=flat-square&logo=naver&logoColor=white"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hyunwoo-kim-9a295420b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="https://github.com/UjiinEatingTangerines"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
