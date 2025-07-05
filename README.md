@@ -3,7 +3,7 @@
 
 <h3 align="center">👋 Welcome to my GitHub!</h3>
 <p align="center">백엔드 아키텍처와 도메인 중심 설계를 사랑하는 개발자, 김현우입니다.</p>
-<p align="center">Kotlin · Spring Boot · JWT · OAuth2 · Hexagonal Architecture</p>
+<p align="center">Java · Kotlin · Spring Boot · JPA · Mybatis</p>
 
 ---
 
