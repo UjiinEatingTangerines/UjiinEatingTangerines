@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=280&section=header&text=Hyunwoo%20Kim&fontSize=85&fontAlign=50&fontAlignY=40)
 
 <h3 align="center">👋 Welcome to my GitHub!</h3>
-<p align="center">단순히 도구를 잘 쓰는 사람이 아니라, 부족하더라도 스스로 필요한 도구를 설계하고, 그 도구를 다른 사람도 쉽게 사용할 수 있도록 만들어서 생태계를 확장하고 부가가치를 창출할 수 있는 사람</p>
+<p align="center">단순히 도구를 잘 쓰는 사람이 아니라, 부족하더라도 스스로 필요한 도구를 설계하고, </p>
+<p align="center">그 도구를 다른 사람도 쉽게 사용할 수 있도록 만들어서 생태계를 확장하고 부가가치를 창출할 수 있는 사람</p>
 <p align="center">Java · Kotlin · Spring Boot · Spring AI</p>
 
 ---
