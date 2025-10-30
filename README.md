@@ -36,15 +36,6 @@
 
 ---
 
-<h3 align="center">📊 My Problem Solving</h3>
-<p align="center">BOJ에서 알고리즘 실력을 갈고닦고 있습니다</p>
-
-<div align="center">
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kkepm012" />
-</div>
-
----
-
 <h3 align="center">🐾 GitAnimals!</h3>
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
