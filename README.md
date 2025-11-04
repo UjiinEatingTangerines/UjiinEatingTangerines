@@ -40,3 +40,16 @@
   <a href="https://github.com/UjiinEatingTangerines"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
   <a href="https://your-friendly-neighborhood.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"></a>
 </p>
+
+---
+
+<h3 align="left">🐾 GitAnimals!</h3>
+<div align="left">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/UjiinEatingTangerines?pet-id=654130287375663973"
+      width="600"
+      height="120"
+    />
+  </a>
+</div>
