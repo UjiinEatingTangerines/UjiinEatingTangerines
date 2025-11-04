@@ -4,8 +4,6 @@
 
 <h1 align="center">👋 Hyunwoo Kim | Software Engineer</h1>
 
----
-
 <h3 align="left">💡 Core Philosophy</h3>
 <p align="left">
   <blockquote>
@@ -33,8 +31,6 @@
 | **Messaging & Queuing** | Apache Kafka |
 | **Tools & Monitoring** | Jira, Sentry |
 </p>
-
----
 
 <h3 align="left">☕ Contact</h3>
 <p align="left">
