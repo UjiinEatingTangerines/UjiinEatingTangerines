@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=UjiinEatingTangerines&label=Profile%20views&color=0e75b6&style=flat" alt="UjiinEatingTangerines" />
 </p>
 
-<h1 align="center">👋 Hyunwoo Kim | Software Engineer</h1>
+<h1 align="center">👋 Hyunwoo Kim | Backend Engineer</h1>
 
 <h3 align="left">💡 Core Philosophy</h3>
 <p align="left">
