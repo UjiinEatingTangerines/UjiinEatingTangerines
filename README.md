@@ -15,6 +15,7 @@
 <p align="left">
   <ul>
     <li>Documentation, communication</li>
+    <li>Redis, Apache Kafka, Event-driven</li>
     <li>Spring AI, LLM, AI Agent</li>
     <li>Open Source Contribution</li>
   </ul>
